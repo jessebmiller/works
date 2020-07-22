@@ -1,0 +1,13 @@
+{{ define "content" }}
+  <div class="margin-a">
+    {{- partial "content-margin-a.html" . -}}
+  </div>
+  <div class="content">
+    {{ range .Site.RegularPages }}
+      <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
+    {{ end }}
+  </div>
+  <div class="margin-b">
+    {{- partial "content-margin-b.html" . -}}
+  </div>
+{{ end }}

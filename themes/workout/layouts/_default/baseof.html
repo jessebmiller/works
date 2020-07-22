@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    <div id="page">
+
+      <div class="v-flowline">
+        {{ block "header" . }}
+          {{- partial "header-content.html" . -}}
+        {{ end }}
+      </div>
+
+      {{ block "content" . }}
+      <div class="c-flowline">
+        <div class="margin-a">
+          {{- partial "content-margin-a.html" . -}}
+        </div>
+        <div class="content">
+          {{- partial "content.html" . -}}
+        </div>
+        <div class="margin-b">
+          {{- partial "content-margin-b.html" . -}}
+        </div>
+      </div>
+      {{ end }}
+
+      <div class="v-flowline">
+        <div class="c-flowline">
+          {{ block "footer" . }}
+          <div class="margin-a">
+            {{- partial "footer-margin-a.html" . -}}
+          </div>
+          <div class="content">
+            {{- partial "footer-content.html" . -}}
+          </div>
+          <div class="margin-b">
+            {{- partial "footer-margin-b.html" . -}}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </body>
+
+  {{- partial "foot.html" . -}}
+
+</html>

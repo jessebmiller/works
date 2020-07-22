@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+    font-family: 'EB Garamond', serif;
+    font-size: min(16pt, 8pt + 2vw);
+    color: #23272A;
+    background-color: #fffafa;
+}
+
+h1, h2, h3 {
+    font-family: 'EB Garamond', serif;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.2em;
+    margin-bottom: 1.2em;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 1.5rem;
+    line-height: 1.2em;
+}
+
+blockquote {
+    padding-left: 1rem;
+    border-left: 1ch solid lightgray;
+    font-style: italic;
+}
+
+.content {
+    padding-left: 1rem;
+    border-left: 1ch solid
+}
+
+em {
+    font-weight: 700;
+    font-style: italic;
+}
+
+header h1, header h2 {
+    font-family: 'EB Garamond', serif;
+    line-height: 0.7em;
+    font-size: min(34vw, 34vh);
+    margin-top: min(6vw, 6vh);
+    margin-left: min(12vw, 12vh);
+    margin-bottom: min(12vw, 12vh);
+    font-style: normal;
+}
+
+header {
+    font-size: 5vw;
+}
+
+header h2 {
+    margin-top: 0;
+    font-size: 1.4em;
+}
+
+p, ul, ol {
+    line-height: 1.62em;
+}
+
+p {
+    margin-top: 1.62em;
+    margin-bottom: 1.62em;
+}
+
+footer {
+    margin-top: 3rem;
+    vertical-align: text-top;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+ol li {
+    list-style-type: decimal;
+}
+
+code {
+    font-family: monospace;
+}
+
+.j-e {
+    letter-spacing: -0.1em;
+}
+
+.w-o {
+    letter-spacing: -0.14em;
+}

@@ -1,0 +1,44 @@
+h1 a, h2 a, h3 a {
+    text-decoration: none;
+}
+
+a {
+    color: #23272A;
+}
+
+a:link {
+    color: #23272A;
+}
+
+a:active {
+    color: #cc0000;
+}
+
+a:hover {
+    color: #cc0000;
+}
+
+div a:hover, h1 a:hover, li a:hover, p a:hover {
+    color: #cc0000;
+}
+
+a:visited {
+    color: #23272A;
+}
+
+header {
+    padding-top: 1vw;
+}
+
+footer {
+    padding-bottom: 5vw;
+    margin-bottom: -1em;
+}
+
+.hidden {
+    display: none;
+}
+
+.c-flowline img {
+    width: 100%
+}

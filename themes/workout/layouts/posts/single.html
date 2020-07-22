@@ -1,0 +1,18 @@
+{{ define "content" }}
+    <div class="c-flowline">
+      <div class="margin-a">
+
+      </div>
+
+      <div class="content">
+          <h1>{{ .Title }}</h1>
+          <time>{{ .Date.Format "January 02, 2006" }}</time>
+          <p>By {{ .Params.Author }}</p>
+          {{ .Content }}
+      </div>
+
+      <div class="margin-b">
+
+      </div>
+    </div>
+{{ end }}

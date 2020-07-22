@@ -1,0 +1,8 @@
+baseURL = "https://jesse.works/"
+languageCode = "en-us"
+title = "Jesse Works"
+summary = "Trust the process"
+theme = "workout"
+
+[params]
+  contentTypes = ["posts"]
