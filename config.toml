@@ -4,5 +4,7 @@ title = "Jesse Works"
 summary = "Trust the process"
 theme = "workout"
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [params]
   contentTypes = ["posts"]
