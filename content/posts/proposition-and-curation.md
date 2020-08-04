@@ -63,20 +63,19 @@ they make and the amount they learn from those attempts.
 * Produces information that selectively and productively reduces
   variability of future attempts
 
-
 ## The Toyota Product Development System
 
 *Toyota's process is an engine for progress.*
 
-* Lots of attempts: Respect for people. Get ideas from
-  everyone. Reduce the cost of attempts through "command intent"
+* Lots of attempts: Set Based Design Respect for people. Get ideas
+  from everyone. Reduce the cost of attempts through "command intent"
   rather than "command and control". Push authority to make attempts
   as low as possible down the organization structure---where most of
   the people and experience are. More people empowered to make
   attempts increases the number of attempts made. It also increases
   the variety of attempts because it comes from a pool with a variety
   of expertise and experiences.
-* 
+
 
 * Toyota's process pushes responsibility for ideas and decisions as
   low as they can (while still remaining a company)
