@@ -26,15 +26,13 @@ Decentralized Autonomous Organizations (DAOs) could change that story.
 When the benefits offered by centralized leadership can be provided by
 cryptoeconomic mechanisms DAOs will offer people those benefits
 without the cost of that centralized leadership---without the cost of
-most of the exponential returns going to a board and a C suite. When
-DAOs can coordinate vision and direction, decisive decision making,
-and division of responsibilities as well as traditional organizations
-do now they'll be in a position to make members lives better than the
-traditional organization can because they'll be able to offer the
-exponential returns that would otherwise go to the leadership of
-traditional organizations.
-
-Voting schemes like [holographic consensus]() 
+most of the exponential returns going to a board of directors and a C
+suite. When DAOs can coordinate vision and direction, decisive
+decision making, and division of responsibilities as well as
+traditional organizations do now they'll be in a position to make
+members lives better than the traditional organization can because
+they'll be able to offer the exponential returns that would otherwise
+go to the leadership of traditional organizations.
 
 The only rational purpose of an organization is to improve the lives
 of its members.
